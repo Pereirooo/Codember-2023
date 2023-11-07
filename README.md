@@ -17,11 +17,6 @@ My repository for my codember solutions (from Midudev).
 
 
 
-background-color: #f2f2f2; /* Color de fondo, puedes cambiar esto a tu preferencia */
-      padding: 10px; /* Añade un poco de espacio alrededor del texto dentro de <pre> */
-      border: 1px solid #ccc; /* Añade un borde para resaltar el área <pre> */
-      white-space: pre-wrap; /* Permite que el texto se ajuste y envuelva dentro del <pre> si es necesario */
-      font-family: 'Courier New', Courier, monospace;
 </pre>
 
 ## Challenges
