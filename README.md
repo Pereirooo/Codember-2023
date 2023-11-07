@@ -3,6 +3,7 @@ My repository for my codember solutions (from Midudev).
 
 # Codember
 
+<div style="background-image: url('URL_DE_LA_IMAGEN'); background-size: cover; padding: 100px; text-align: center;">
 <pre>
                   __                         __
                  /\ \                       /\ \
@@ -42,3 +43,4 @@ My repository for my codember solutions (from Midudev).
 	<summary>konami</summary>
 	<code>Up Up Down Down Left Right Left Right b a</code>
 </details>
+</div>
