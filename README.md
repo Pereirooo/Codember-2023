@@ -23,12 +23,18 @@ My repository for my codember solutions (from Midudev).
 ## Secrets
 
 <details>
-	<summary>last-name</summary>
+	<summary>Last-Name</summary>
 	<code>submit RAUCH</code>
 </details>
 
 
 <details>
-	<summary>'<the-special-date>'</summary>
+	<summary>'the-special-date'</summary>
 	<code>submit 2023-12-01</code>
+</details>
+
+
+<details>
+	<summary>konami</summary>
+	<code>Up Up Down Down Left Right Left Right b a</code>
 </details>
