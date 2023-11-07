@@ -17,4 +17,4 @@ My repository for my codember solutions (from Midudev).
 
 # Challenges
 
-[CHALLENG_1]()
+[CHALLENG_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
