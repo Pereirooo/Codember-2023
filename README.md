@@ -29,6 +29,6 @@ My repository for my codember solutions (from Midudev).
 
 
 <details>
-	<summary><the-special-date></summary>
+	<summary>'<the-special-date>'</summary>
 	<code>submit 2023-12-01</code>
 </details>
