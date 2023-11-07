@@ -15,6 +15,20 @@ My repository for my codember solutions (from Midudev).
  ver. 2023
 </pre>
 
-# Challenges
+## Challenges
 
 [CHALLENG_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
+
+
+## Secrets
+
+<details>
+	<summary>last-name</summary>
+	<code>submit RAUCH</code>
+</details>
+
+
+<details>
+	<summary><the-special-date></summary>
+	<code>submit 2023-12-01</code>
+</details>
