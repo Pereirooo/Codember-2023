@@ -20,13 +20,13 @@ My repository for my codember solutions (from Midudev).
 
 </pre>
 <details>
-<summary>Challengs</summary>
+<summary>CHALLENGS</summary>
 
 - [CHALLENG_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
 - [CHALLENG 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/main.c)
 </details>
 <details>
-<summary>Secrets</summary>
+<summary>SECRETS</summary>
 
 #### 1) Last-Name
 
