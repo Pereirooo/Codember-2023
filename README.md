@@ -30,11 +30,16 @@ My repository for my codember solutions (from Midudev).
 
 #### 1) Last-Name
 
--La persona oculta es el CEO de una gran empresa de hosting (empieza por V)
--`name`No es lo mismo que `Last-Name`
+- La persona oculta es el CEO de una gran empresa de hosting (empieza por V)-
+- `name`No es lo mismo que `Last-Name`.
 
 <!-- $ submit RAUCH -->
 
+#### 2) the-special-date
+
+- Mira el correo con el comando `mail`.
+- Si deseas leer un email emplea `mail <id>`.
+- Y no te equivoques!! fecha: YYYY-MM-DD.
 
 
 <details>
