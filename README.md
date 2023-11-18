@@ -31,7 +31,7 @@ My repository for my codember solutions (from Midudev).
 #### 1) Last-Name
 
 - La persona oculta es el CEO de una gran empresa de hosting (empieza por V)-
-- `name`No es lo mismo que `Last-Name`.
+- `name`No es lo mismo que `last-name`.
 
 <!-- $ submit RAUCH -->
 
@@ -71,7 +71,7 @@ My repository for my codember solutions (from Midudev).
 
 - Revisa el correo si aún no lo has hecho `mail`.
 - Si quieres leer uno: `mail <id>`
-- Rwespuesta: `submit <respuesta>`
+- Respuesta: `submit <respuesta>`
 
 <!-- $ submit html -->
 
