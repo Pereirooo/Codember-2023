@@ -52,7 +52,7 @@ My repository for my codember solutions (from Midudev).
 
 <!-- $ submit Up Up Down Down Left Right Left Right b a -->
 
-#### 4)🎊🎉 Fiesta!!
+#### 4)🎊 Fiesta!!
 
 - `CHANGELOG.txt`, nunca está de más ver que nos trae la nueva versión
 - Una fiesta sin confetti no es una fiesta
@@ -60,7 +60,7 @@ My repository for my codember solutions (from Midudev).
 
 <!-- $ confetti --Varias veces -->
 
-#### 5)🪄🪄 Magia
+#### 5)🪄 Magia
 - `CHANGELOG.txt` si aún no lo has leído va siendo hora.
 - No eres un verdadero mago si antes de sacar el conejo de la chistera no dices una palabra...
 - (Todo junto y en minúsculas)
