@@ -25,12 +25,16 @@ My repository for my codember solutions (from Midudev).
 - [CHALLENG_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
 - [CHALLENG 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/main.c)
 
-## Secrets
+### Secrets
 
-<details>
-	<summary>Last-Name</summary>
-	<code>submit RAUCH</code>
-</details>
+
+#### 1) Last-Name
+
+-La persona oculta es el CEO de una gran empresa de hosting (empieza por V)
+-`name`No es lo mismo que `Last-Name`
+
+<!-- $ submit RAUCH -->
+
 
 
 <details>
