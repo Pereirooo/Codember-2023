@@ -7,7 +7,7 @@ Mi repositorio con las soluciones del codember (de Midudev).
 <summary>Retos</summary>
 
 - [Reto_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras/ContarPalabras.c)
-- [Reto 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/main.c)
+- [Reto 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/MiniCompiler.c)
 </details>
 <details>
 <summary>Secretos</summary>
