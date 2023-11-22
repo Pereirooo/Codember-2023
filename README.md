@@ -59,4 +59,29 @@ My repository for my codember solutions (from Midudev).
 
 <!-- $ submit html -->
 
+
+#### 7)🤖 AI
+
+- En los últimos años la ia a evolucionado mucho
+- ¿Quien no ha salvado un trabajo gracias a ChatGPT?
+- Como se llama su creador?
+
+<!-- $ submit Altman-->
+
+
+#### 8)🚀 Marte
+
+- Primero debes saber como entrar en la carpeta private (mira el mail).
+- Un mensaje de un astronauta, leelo con atención
+
+<!-- $ submit majortom-->
+
+
+#### 9)🛩️ Barrel roll
+
+- Uno de los giros más típicos en aviación acrobática
+- Pero con un do ;)
+
+<!-- $ do a barrel roll-->
+
 </details>
