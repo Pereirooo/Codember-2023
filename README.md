@@ -1,16 +1,16 @@
 # Codember-2023
-My repository for my codember solutions (from Midudev).
+Mi repositorio con las soluciones del codember (de Midudev).
 
 ![Codember](./assets/codember.png)
 
 <details>
-<summary>CHALLENGS</summary>
+<summary>Restos</summary>
 
-- [CHALLENG_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
-- [CHALLENG 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/main.c)
+- [Reto_1](https://github.com/Pereirooo/Codember-2023-/blob/main/ContarPalabras.c)
+- [Reto 2](https://github.com/Pereirooo/Codember-2023/blob/main/MiniCompiler/main.c)
 </details>
 <details>
-<summary>SECRETS</summary>
+<summary>Secretos</summary>
 
 #### 1) Last-Name
 
