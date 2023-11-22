@@ -80,7 +80,7 @@ My repository for my codember solutions (from Midudev).
 #### 9)🛩️ Barrel roll
 
 - Uno de los giros más típicos en aviación acrobática
-- Pero con un do ;)
+- Pero con un do delante ;)
 
 <!-- $ do a barrel roll-->
 
