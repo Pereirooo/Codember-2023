@@ -95,18 +95,18 @@ Mi repositorio con las soluciones del codember (de Midudev).
 <!-- $ ping midu.dev-->
 
 
-#### 11) Adivina Adivinanza
+#### 11)🥠 Adivina Adivinanza
 -Soy invisible pero puedo detener un plan, en el código me escondo, difícil de hallar. Los programadores me buscan con afán, pues hasta el sistema más fuerte puedo quebrantar. ¿Qué soy? 
 
 <!-- $ submit bug-->
 
-#### 12) Misión final Marte
+#### 12)🚀 Misión final Marte
 - Un último mensaje del explorador Alex
 - En el encontrarás la solución
 
 <!-- $ npm install adventjs-->
 
-#### 13) Tetris
+#### 13)🧩 Tetris
 - Ya puedes jugar al tetris!
 - Prueba con: 'play tetris'
 
